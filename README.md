@@ -4,9 +4,6 @@ Esse diretório possue um compilado de todos arquivos necessários para realizar
 <br>
 Repositório Original para refência - https://github.com/awaregroup/powerbi-vcs
 
-# Vídeo Demonstrativo
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/EVx9HTGd6OU/0.jpg)](https://www.youtube.com/watch?v=EVx9HTGd6OU)
 
 ## Configurações para esteira de Entrega Contínua do Azure Dev Ops
 
